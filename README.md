@@ -1,2 +1,2 @@
-# LF_Inverter
+# HF_Inverter
 An electric car power  Inverter Library - Coming soon
